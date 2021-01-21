@@ -21,7 +21,7 @@
         <commons-lang3.version>3.1</commons-lang3.version>
         <spring.version>4.0.4.RELEASE</spring.version>
         <mail.version>1.4.7</mail.version>
-        <jack.vesion>2.1.0</jack.vesion>
+        <jack.vesion>2.12.1</jack.vesion>
         <dom4j.version>1.6.1</dom4j.version>
         <standard.version>1.1.2</standard.version>
         <jstl.version>1.2</jstl.version>
