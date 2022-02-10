@@ -28,7 +28,7 @@
         <pager-taglib.version>2.0</pager-taglib.version>
         <servlet.version>3.0</servlet.version>
         <net.json>2.4</net.json>
-        <hibernate.version>4.3.5.Final</hibernate.version>
+        <hibernate.version>5.4.24.Final</hibernate.version>
     </properties>
 
 
