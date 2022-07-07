@@ -19,7 +19,7 @@
         <mysql-jdbc.version>8.0.12</mysql-jdbc.version>
         <apache.commons>2.5.0</apache.commons>
         <commons-lang3.version>3.1</commons-lang3.version>
-        <spring.version>4.0.4.RELEASE</spring.version>
+        <spring.version>5.2.21.RELEASE</spring.version>
         <mail.version>1.4.7</mail.version>
         <jack.vesion>2.1.0</jack.vesion>
         <dom4j.version>1.6.1</dom4j.version>
